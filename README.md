@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AjayLucky3/LCCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AjayLucky3/LCCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AjayLucky3/LCCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AjayLucky3/LCCODE/tree/master/0005-longest-palindromic-substring) |
+| [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -35,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AjayLucky3/LCCODE/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
+## Sorting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
