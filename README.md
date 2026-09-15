@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AjayLucky3/LCCODE/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/AjayLucky3/LCCODE/tree/master/0283-move-zeroes) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AjayLucky3/LCCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AjayLucky3/LCCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 <!---LeetCode Topics End-->
