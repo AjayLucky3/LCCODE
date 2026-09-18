@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AjayLucky3/LCCODE/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/AjayLucky3/LCCODE/tree/master/0283-move-zeroes) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AjayLucky3/LCCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AjayLucky3/LCCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AjayLucky3/LCCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AjayLucky3/LCCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 ## Two Pointers
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AjayLucky3/LCCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
