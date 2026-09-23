@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AjayLucky3/LCCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AjayLucky3/LCCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AjayLucky3/LCCODE/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/AjayLucky3/LCCODE/tree/master/0283-move-zeroes) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AjayLucky3/LCCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AjayLucky3/LCCODE/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AjayLucky3/LCCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AjayLucky3/LCCODE/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/AjayLucky3/LCCODE/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AjayLucky3/LCCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AjayLucky3/LCCODE/tree/master/0016-3sum-closest) |
 | [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AjayLucky3/LCCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
