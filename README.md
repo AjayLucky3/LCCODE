@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AjayLucky3/LCCODE/tree/master/0283-move-zeroes) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AjayLucky3/LCCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+| [2561-rearranging-fruits](https://github.com/AjayLucky3/LCCODE/tree/master/2561-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AjayLucky3/LCCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+| [2561-rearranging-fruits](https://github.com/AjayLucky3/LCCODE/tree/master/2561-rearranging-fruits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
+| [2561-rearranging-fruits](https://github.com/AjayLucky3/LCCODE/tree/master/2561-rearranging-fruits) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AjayLucky3/LCCODE/tree/master/0016-3sum-closest) |
 | [0767-reorganize-string](https://github.com/AjayLucky3/LCCODE/tree/master/0767-reorganize-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AjayLucky3/LCCODE/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2561-rearranging-fruits](https://github.com/AjayLucky3/LCCODE/tree/master/2561-rearranging-fruits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
