@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AjayLucky3/LCCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AjayLucky3/LCCODE/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/AjayLucky3/LCCODE/tree/master/0283-move-zeroes) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AjayLucky3/LCCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AjayLucky3/LCCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2561-rearranging-fruits](https://github.com/AjayLucky3/LCCODE/tree/master/2561-rearranging-fruits) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AjayLucky3/LCCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AjayLucky3/LCCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AjayLucky3/LCCODE/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AjayLucky3/LCCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,5 +88,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AjayLucky3/LCCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/AjayLucky3/LCCODE/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 <!---LeetCode Topics End-->
